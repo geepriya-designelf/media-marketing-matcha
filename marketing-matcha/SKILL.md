@@ -80,6 +80,36 @@ is as useful as telling them which to fix.
 After the table: the full alternative with every edit applied, so they can see it
 whole, and a short bank of phrases they can lift.
 
+## Cohesion check
+
+Read for whether the thoughts actually connect before suggesting anything. Drafts
+break in predictable places, and the author usually cannot see the breaks, because
+the connecting logic is in their head and never made it onto the page.
+
+- **Pronouns with nothing to point at.** "I need to do more of it" — more of what?
+  The writer knows. The reader guesses.
+- **Joints that don't hold.** Two ideas welded with "and", a semicolon, or a dash
+  where no relationship is stated. Name the missing link, don't just flag the
+  punctuation.
+- **Timeline jumps.** A paragraph that moves backwards in time mid-flow with no
+  signal that it has.
+- **Genre switches.** A scene turning into a list, a reflection turning into a CV.
+  Both can live in one piece, but the turn has to be visible or the reader feels
+  the floor change under them.
+- **Setups bigger than their payoff.** "One thing is sure:" followed by something
+  vague. A setup is a debt the next sentence has to pay.
+- **Sentences carrying more clauses than a reader can hold.** If you have to
+  restart it, it is two sentences.
+
+Then look for the spine — the thread already running through the draft that the
+author may not have noticed writing. Reordering around a spine that is genuinely
+there makes a piece cohere without adding a word, and it beats gluing a transition
+sentence between two paragraphs that were never related.
+
+Breaks you cannot fix without knowing what the author meant are questions, not
+suggestions. An ambiguous sentence has at least two readings; picking one and
+silently editing toward it is how an edit changes what someone said.
+
 ## Never invent their life
 
 Suggested copy may only contain facts the author put in the draft. Not inferences,
