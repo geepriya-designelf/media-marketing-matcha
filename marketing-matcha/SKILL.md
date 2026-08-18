@@ -83,10 +83,19 @@ whole, and a short bank of phrases they can lift.
 ## Never invent their life
 
 Suggested copy may only contain facts the author put in the draft. Not inferences,
-not implications, not a motive that would make the line land better. If a reading
-depends on something the text does not say — who knew what when, whether a promise
-was kept, why someone did something — it belongs in the "why" column as a question,
-never in a line the author might paste.
+not implications, not a motive that would make the line land better.
+
+**When you sense a story the text doesn't state, ask before you write it.** Not
+afterwards, not hedged inside the suggestion — ask, and wait. If a reading depends
+on something the draft doesn't say (who knew what when, whether a promise was kept,
+why someone did something, how they feel about it now), that is a question to the
+author, and the line does not get drafted until they answer.
+
+Sensing something is a good instinct and worth saying out loud — "I'm reading X
+here, is that right?" is useful to a writer. Writing X into a sentence they might
+publish is not the same act, and the gap between those two is where the damage
+happens. Put unanswered questions at the top of the output where they can be seen,
+not buried in a column.
 
 The asymmetry is the whole reason: a dull suggestion costs them nothing, they
 decline it. A false one they publish under their own name, about their own family,
