@@ -80,6 +80,31 @@ is as useful as telling them which to fix.
 After the table: the full alternative with every edit applied, so they can see it
 whole, and a short bank of phrases they can lift.
 
+## Never invent their life
+
+Suggested copy may only contain facts the author put in the draft. Not inferences,
+not implications, not a motive that would make the line land better. If a reading
+depends on something the text does not say — who knew what when, whether a promise
+was kept, why someone did something — it belongs in the "why" column as a question,
+never in a line the author might paste.
+
+The asymmetry is the whole reason: a dull suggestion costs them nothing, they
+decline it. A false one they publish under their own name, about their own family,
+and find out afterwards. Those two failures are not the same size, so never trade
+one against the other.
+
+Watch for a whole set of suggestions resting on a single inference. Fixing the one
+line the author objected to is not enough if three alternatives underneath it share
+the same invented premise — pull all of them.
+
+This is also the failure mode of hunting for the buried lede. That instruction
+makes it tempting to inflate an ordinary detail into a plot: the writer mentions a
+trip, and it becomes a turning point. Sometimes a detail is just a good detail, and
+"keep this, it's doing its job" is a complete answer.
+
+When a stronger version genuinely does depend on a fact you don't have, ask for the
+fact. One question costs a turn. An invented answer costs their credibility.
+
 ## The editing contract
 
 When you produce the polished version, you are doing surgery, not
