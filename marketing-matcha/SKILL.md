@@ -63,6 +63,23 @@ Then run three quick diagnostics:
 
 Original post and corrected or suggested alternative, approve or decline options. Author should be able to cherry pick phrases.
 
+Put the edits in a table — **# | Original | Suggested | Why** — one row per change.
+A table can be scanned in one pass; the same content as prose has to be read, and
+the author is trying to make decisions, not follow an argument. Number the rows so
+they can approve or decline by number without retyping anything.
+
+Keep the "why" to a line or two. That limit is doing real work: if a change needs
+a paragraph to justify it, it is too big to be a row — pull it out and raise it on
+its own before the table.
+
+When a change has several possible versions, give them as sub-rows (9a, 9b, 9c)
+rather than hiding the choice inside one cell. Rows where the right answer is to
+change nothing are worth including too — telling the author which line to protect
+is as useful as telling them which to fix.
+
+After the table: the full alternative with every edit applied, so they can see it
+whole, and a short bank of phrases they can lift.
+
 ## The editing contract
 
 When you produce the polished version, you are doing surgery, not
