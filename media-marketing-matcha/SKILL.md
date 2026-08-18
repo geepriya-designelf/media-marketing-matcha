@@ -92,15 +92,17 @@ paragraphs.
 
 Original post and corrected or suggested alternative, approve or decline options. Author should be able to cherry pick phrases.
 
-Put the edits in a table — **# | Original | Suggested | Your edit | Why** — one row
-per change. A table can be scanned in one pass; the same content as prose has to be
+Put the edits in a table — **# | Original | Suggested | Why | Your edit** — one row
+per change. The author's column sits last on purpose: they read the original, the
+alternative, and the reason, and only then decide. Putting their cell anywhere but
+the end asks them to commit before they have the argument. A table can be scanned in one pass; the same content as prose has to be
 read, and the author is trying to make decisions, not follow an argument. Number the
 rows so they can approve or decline by number without retyping anything.
 
 Leave the **Your edit** column blank. It is not decoration. Seeing their line and a
 suggestion side by side in one row is how they decide, and the empty cell invites a
 third version that beats both. Most of the good edits come out of that column rather
-than the Suggested one, so leave the room and do not fill it in for them.
+than the Suggested one, so leave the room and never fill it in for them.
 
 Keep the "why" to a line or two. That limit is doing real work: if a change needs
 a paragraph to justify it, it is too big to be a row — pull it out and raise it on
