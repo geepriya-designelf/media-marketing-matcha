@@ -61,9 +61,7 @@ Then run three quick diagnostics:
 
 ## Output format
 
-Original post and corrected or suggested alternative, approve or decline options. Author should be able to cherry pick phrases. 
-```
-
+Original post and corrected or suggested alternative, approve or decline options. Author should be able to cherry pick phrases.
 
 ## The editing contract
 
