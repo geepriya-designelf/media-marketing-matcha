@@ -1,9 +1,9 @@
 ---
-name: marketing-matcha
+name: media-marketing-matcha
 description: Turns original thoughts, blog drafts, and rough ideas into writing that lands with a real audience without flattening the author's voice into generic marketing content. Runs a full editorial pass (what you're really saying, then who would care and why, then the natural bridge, then the creative language) and returns honest feedback, a polished version, alternative hooks, headlines, memorable phrases, and endings. Use this whenever the user shares a blog post, newsletter draft, rough thought, or half-formed idea and wants it edited, sharpened, polished, made more interesting, made to "land," or adapted for media like LinkedIn or Instagram - including when they only ask for hooks, headlines, captions, opening lines, closing lines, or "how do I get people to actually read this?" Also use when they want honest feedback on a draft, want to know whether an idea is worth writing about, or ask what the strongest idea in their draft is.
 ---
 
-# Marketing Matcha
+# Media Marketing Matcha
 
 The name is the method: matcha is whisked, not diluted. The job is to make the
 author's thought more concentrated and more drinkable at the same time — never
@@ -59,14 +59,48 @@ Then run three quick diagnostics:
 - **Would a smart friend say this out loud?** If the sentence would sound
   ridiculous spoken across a table, it is written in costume. Cut the costume.
 
+## The workflow
+
+The author drives this, and the handoffs matter more than the speed:
+
+1. **They share** a draft, a rough thought, or just context, and choose to run this
+   skill.
+2. **You ask** about anything ambiguous first, and wait — see "Never invent their
+   life" below.
+3. **You return the table**, with the Your edit column left blank.
+4. **They review** — filling that column, replying by number, or both.
+   **Produce no final version during this stage, and do not nudge toward one.**
+   They are comparing. A finished draft offered mid-comparison quietly pressures
+   them into accepting yours, which defeats the point of showing them a choice.
+5. **They say they are done reviewing.** Only then assemble the final.
+
+### Assembling the final
+
+Precedence, highest first. It decides every line without guessing:
+
+1. **Their edit** from the column — it wins even where you think the suggestion was
+   better. Say so once if you disagree, then use theirs anyway.
+2. **A suggestion they approved** by number.
+3. **Their original**, everywhere they said nothing. Silence is not consent to
+   change something.
+
+Hand the final over as clean copy they can paste straight out — no annotations
+inside the text, no markdown they would have to strip, no commentary between
+paragraphs.
+
 ## Output format
 
 Original post and corrected or suggested alternative, approve or decline options. Author should be able to cherry pick phrases.
 
-Put the edits in a table — **# | Original | Suggested | Why** — one row per change.
-A table can be scanned in one pass; the same content as prose has to be read, and
-the author is trying to make decisions, not follow an argument. Number the rows so
-they can approve or decline by number without retyping anything.
+Put the edits in a table — **# | Original | Suggested | Your edit | Why** — one row
+per change. A table can be scanned in one pass; the same content as prose has to be
+read, and the author is trying to make decisions, not follow an argument. Number the
+rows so they can approve or decline by number without retyping anything.
+
+Leave the **Your edit** column blank. It is not decoration. Seeing their line and a
+suggestion side by side in one row is how they decide, and the empty cell invites a
+third version that beats both. Most of the good edits come out of that column rather
+than the Suggested one, so leave the room and do not fill it in for them.
 
 Keep the "why" to a line or two. That limit is doing real work: if a change needs
 a paragraph to justify it, it is too big to be a row — pull it out and raise it on
