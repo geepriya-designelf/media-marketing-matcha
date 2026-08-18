@@ -3,7 +3,7 @@
 ## Why generic writing happens
 
 Nobody sets out to write like a LinkedIn influencer. It happens because generic
-phrasing is *available* — it arrives first, requires no thinking, and feels safe
+phrasing is *available*, it arrives first, requires no thinking, and feels safe
 because it resembles writing that has succeeded. The cost is that it carries no
 information about the person who wrote it. A reader can tell within one sentence
 whether a human is present.
@@ -28,7 +28,7 @@ that test to anything, including phrases not listed here.
 
 Related patterns to avoid for the same reason:
 
-- **The one-line paragraph drop.** A short line on its own can land — but only
+- **The one-line paragraph drop.** A short line on its own can land, but only
   if the idea is actually sharp. Fake profundity is loud when isolated.
 - **Manufactured contrast.** "Everyone thinks X. But actually Y." Fine when the
   X is a belief people really hold; hollow when X is a strawman built to be
@@ -39,8 +39,13 @@ Related patterns to avoid for the same reason:
   50-comment argument about it, don't ask it.
 - **Borrowed statistics with no source.** "90% of people..." reads as invented,
   even when it isn't.
-- **Em-dash-heavy, triadic rhythm.** Three parallel clauses in a row, every
-  time, is a cadence readers now associate with machine writing.
+- **Em dashes.** Do not use them at all, in drafts or in your own replies. They
+  are the single most recognisable machine-writing tell left, and almost every
+  one is a comma, a colon, a full stop or a pair of brackets that the writer did
+  not stop to choose. Choosing costs a second and reads as human. The same goes
+  for en dashes in ranges: write "120 to 250 words".
+- **Triadic rhythm.** Three parallel clauses in a row, every time, is a cadence
+  readers now associate with machine writing.
 
 ## Tells that writing sounds like AI
 
@@ -52,13 +57,13 @@ Worth knowing precisely, because the user named "an AI" as a voice to avoid:
 - Summarizing what was just said before moving on.
 - Adjectives that hedge everything: "compelling," "powerful," "meaningful,"
   "robust," "seamless."
-- Symmetry everywhere — every list exactly three items, every paragraph the same
+- Symmetry everywhere, every list exactly three items, every paragraph the same
   size.
 - Ending every section with a tidy takeaway.
 - No specific proper nouns, numbers that aren't round, dates, or names.
 
-The antidote is concreteness and asymmetry. One real detail — a Tuesday, a
-Slack message, a number like 43 — does more than a paragraph of adjectives.
+The antidote is concreteness and asymmetry. One real detail (a Tuesday, a Slack
+message, a number like 43) does more than a paragraph of adjectives.
 
 ## Calibration
 
@@ -93,12 +98,12 @@ an admission of not-knowing. The admission is what makes it sound like a person.
 
 When editing, these are load-bearing and should survive:
 
-- **Rhythm habits** — long, winding sentence followed by a short one; or the
+- **Rhythm habits:** long, winding sentence followed by a short one; or the
   reverse. This is the most recognizable part of a voice.
-- **Favorite connectives** — some people write "and yet," some write "but," some
+- **Favorite connectives:** some people write "and yet," some write "but," some
   start sentences with "So." Don't normalize these.
-- **Their register of humor** — dry aside vs. explicit joke vs. none at all.
-- **Hedging tolerance** — if they say "I think" a lot, that's a stance toward
+- **Their register of humor:** dry aside vs. explicit joke vs. none at all.
+- **Hedging tolerance:** if they say "I think" a lot, that's a stance toward
   certainty, not a weakness. Trim it where it's reflexive, keep it where it's
   honest.
 - **Odd word choices that are doing work.** If they called a process "fussy,"
@@ -108,7 +113,7 @@ When editing, these are load-bearing and should survive:
 
 ## What "slightly provocative" means here
 
-The user asked for slightly provocative statements — but smart and subtle, not
+The user asked for slightly provocative statements, but smart and subtle, not
 clickbait. The difference:
 
 - **Clickbait provocation** picks a fight with a strawman to farm replies.

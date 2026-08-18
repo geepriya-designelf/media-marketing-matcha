@@ -1,6 +1,6 @@
 # Creative language
 
-Creativity here means **precision that surprises** — not decoration. A line is
+Creativity here means **precision that surprises**, not decoration. A line is
 good when it says the thing more exactly than the plain version did, and the
 extra exactness is what makes it memorable. If a phrase is only pretty, it's
 drag.
@@ -19,7 +19,7 @@ summarize, promise, or impress.
 **The admission.** Say the thing people usually don't.
 > I've been running standups for six years and I still don't know if they help.
 
-**The reversal.** Set up the expected shape, then break it — only if the setup
+**The reversal.** Set up the expected shape, then break it, only if the setup
 is a belief people genuinely hold.
 > Everyone told me hiring senior people would slow us down. It did. That turned
 > out to be the point.
@@ -47,7 +47,7 @@ you about the time...", any hook that describes the post instead of starting it.
 
 ## Memorable phrases
 
-Devices that make a line stick — reach for these when a good idea is sitting in
+Devices that make a line stick. Reach for these when a good idea is sitting in
 flat language:
 
 - **Compression.** Say it in fewer words than feels comfortable. *"We shipped
@@ -60,7 +60,7 @@ flat language:
   finish."*
 - **Concrete metaphor from a non-business domain.** Kitchens, weather,
   carpentry, sport, gardening. Business metaphors ("runway," "north star") are
-  worn out; a metaphor from cooking still has texture. Use one per piece — more
+  worn out; a metaphor from cooking still has texture. Use one per piece. More
   than that becomes trying too hard.
 - **The specific stand-in.** Replace a category with one true instance. Not "our
   processes," but "the spreadsheet Maya maintains by hand every Friday."
@@ -74,12 +74,12 @@ it in a normal conversation, it fails.
 
 Weak drafts leak energy between paragraphs. Transitions worth using:
 
-- **The hinge sentence** — one short line that turns the piece. *"Then the
+- **The hinge sentence:** one short line that turns the piece. *"Then the
   numbers came back."*
-- **The echo** — repeat a word from the previous paragraph in a new sense.
-- **The concession** — *"Which is the part I got wrong."* Concessions build
+- **The echo:** repeat a word from the previous paragraph in a new sense.
+- **The concession:** *"Which is the part I got wrong."* Concessions build
   trust and move the argument at the same time.
-- **The zoom** — from the specific incident to what it's an instance of, or back
+- **The zoom:** from the specific incident to what it's an instance of, or back
   down. Alternating scale is what makes essays feel like they're going
   somewhere.
 
@@ -90,11 +90,11 @@ list where a sentence would do.
 
 Give at least three, deliberately different in strategy:
 
-1. **Plain and specific** — says what it is, trusts the subject. *"What six
+1. **Plain and specific:** says what it is, trusts the subject. *"What six
    years of standups taught me about standups."*
-2. **Curiosity through tension** — an unresolved pair. *"The cheapest fix was
+2. **Curiosity through tension:** an unresolved pair. *"The cheapest fix was
    the one nobody would approve."*
-3. **The phrase-forward** — leads with the piece's best coinage. *"Meeting
+3. **The phrase-forward:** leads with the piece's best coinage. *"Meeting
    debt."*
 
 Good headlines are usually **shorter than feels safe** and **more specific than
@@ -103,7 +103,7 @@ two weak halves stapled together.
 
 ## Ending lines
 
-The ending is where most drafts collapse — either into a summary of what was
+The ending is where most drafts collapse, either into a summary of what was
 just read, or into a moral. Both are exits, not landings. Better options:
 
 - **The turn inward.** End on something the writer is still figuring out.

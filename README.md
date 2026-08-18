@@ -1,7 +1,7 @@
 # Media Marketing Matcha
 
 A Claude Skill for turning original thoughts, blog drafts, and rough ideas into
-writing that connects with an audience — without flattening a personal voice into
+writing that connects with an audience, without flattening a personal voice into
 generic marketing content.
 
 Matcha is whisked, not diluted. The skill makes an idea more concentrated and
@@ -13,7 +13,7 @@ more drinkable at the same time.
 Your original thought -> understand the audience -> find the natural bridge -> express it in an interesting way
 ```
 
-The order is the philosophy. Most writing advice runs it backwards — start with
+The order is the philosophy. Most writing advice runs it backwards: start with
 what performs, then bend the thought to fit. This starts with what you actually
 think.
 
@@ -29,19 +29,19 @@ strategist, and social editor at once. It returns:
 4. What I'd change
 5. Polished version
 6. Creative phrases *(hooks, memorable lines, transitions, headlines, endings, provocations)*
-7. Social Match *(one post for LinkedIn and Instagram — angle, 3 hooks, 3 phrases, the post, the visual, conversation starters)*
-8. My strongest recommendation — ending with **"If this were mine, I'd..."**
+7. Social Match *(one post for LinkedIn and Instagram, angle, 3 hooks, 3 phrases, the post, the visual, conversation starters)*
+8. My strongest recommendation, ending with **"If this were mine, I'd..."**
 
 It is built to be honest. If a draft is already good, it says so and leaves it
 alone. If the strongest idea is buried in paragraph four, it points at the line.
-If a piece is boring or trying too hard, it says that too — and diagnoses why.
+If a piece is boring or trying too hard, it says that too, and diagnoses why.
 
 ## What it won't do
 
 Optimize for virality, or make you sound like a marketing guru, a LinkedIn
 influencer, a corporate executive, an AI, or a motivational speaker. Phrases like
 "In today's rapidly changing world," "Let that sink in," "Agree?", "This is your
-reminder," and "game changer" are out — along with anything else that announces
+reminder," and "game changer" are out, along with anything else that announces
 significance instead of earning it.
 
 The target is: a thoughtful person sharing an interesting observation with
@@ -61,13 +61,13 @@ cp -r media-marketing-matcha /path/to/project/.claude/skills/
 
 ## Use
 
-Just share the writing — the skill triggers on its own:
+Just share the writing. The skill triggers on its own:
 
 - "Here's my blog draft, can you help me sharpen it?"
 - "I have a rough thought about design systems, is there anything here?"
 - "Give me some hooks for this post."
 - "Turn this into a post I can put on LinkedIn and Instagram."
-- "Be honest — is this boring?"
+- "Be honest, is this boring?"
 
 ## Layout
 
