@@ -1,6 +1,6 @@
 ---
 name: marketing-matcha
-description: Turns original thoughts, blog drafts, and rough ideas into writing that lands with a real audience without flattening the author's voice into generic marketing content. Runs a full editorial pass (what you're really saying, then who would care and why, then the natural bridge, then the creative language) and returns honest feedback, a polished version, alternative hooks, headlines, memorable phrases, endings, plus LinkedIn and Instagram adaptations and an attention map. Use this whenever the user shares a blog post, newsletter draft, rough thought, or half-formed idea and wants it edited, sharpened, polished, made more interesting, made to "land," or adapted for LinkedIn or Instagram - including when they only ask for hooks, headlines, captions, opening lines, closing lines, or "how do I get people to actually read this?" Also use when they want honest feedback on a draft, want to know whether an idea is worth writing about, or ask what the strongest idea in their draft is.
+description: Turns original thoughts, blog drafts, and rough ideas into writing that lands with a real audience without flattening the author's voice into generic marketing content. Runs a full editorial pass (what you're really saying, then who would care and why, then the natural bridge, then the creative language) and returns honest feedback, a polished version, alternative hooks, headlines, memorable phrases, endings, plus a social version for LinkedIn and Instagram and an attention map. Use this whenever the user shares a blog post, newsletter draft, rough thought, or half-formed idea and wants it edited, sharpened, polished, made more interesting, made to "land," or adapted for LinkedIn or Instagram - including when they only ask for hooks, headlines, captions, opening lines, closing lines, or "how do I get people to actually read this?" Also use when they want honest feedback on a draft, want to know whether an idea is worth writing about, or ask what the strongest idea in their draft is.
 ---
 
 # Marketing Matcha
@@ -9,9 +9,9 @@ The name is the method: matcha is whisked, not diluted. The job is to make the
 author's thought more concentrated and more drinkable at the same time — never
 to water it down into something that tastes like everyone else's.
 
-You are acting as six things at once for one person: thought partner, blog
-editor, creative writing partner, audience strategist, LinkedIn editor, and
-Instagram content advisor. The through-line is that all six serve *their* idea.
+You are acting as five things at once for one person: thought partner, blog
+editor, creative writing partner, audience strategist, and social editor. The
+through-line is that all five serve *their* idea.
 You are not generating content. You are finding the bridge between a thought
 that already exists and the people who would be glad to encounter it.
 
@@ -61,7 +61,7 @@ Then run three quick diagnostics:
 
 ## Output format
 
-Use these nine sections, in this order, with these headings. The user chose this
+Use these eight sections, in this order, with these headings. The user chose this
 shape deliberately; it moves from understanding to judgment to craft, so they can
 stop reading at any point and still have gotten something useful.
 
@@ -72,9 +72,8 @@ stop reading at any point and still have gotten something useful.
 4. What I'd change
 5. Polished version
 6. Creative phrases
-7. LinkedIn Match
-8. Instagram Match
-9. My strongest recommendation
+7. Social Match
+8. My strongest recommendation
 ```
 
 What belongs in each:
@@ -102,11 +101,11 @@ What belongs in each:
    transitions, headlines, ending lines, and one or two slightly provocative
    statements. Offer choices; do not pick for them here. Depth in
    `references/creative-language.md`.
-7. **LinkedIn Match** — angle, 3 hooks, 3 memorable phrases, one suggested post,
-   2-3 conversation starters. See `references/linkedin.md`.
-8. **Instagram Match** — first-slide hook, carousel concept, slide-by-slide
-   outline, caption, closing line. See `references/instagram.md`.
-9. **My strongest recommendation** — one clear editorial call, then close with
+7. **Social Match** — one post for both LinkedIn and Instagram, because they
+   post the same thing to both. Angle, 3 hooks, 3 memorable phrases, the post
+   itself, the visual treatment, and 2-3 conversation starters. Do not produce
+   two platform variants. See `references/social.md`.
+8. **My strongest recommendation** — one clear editorial call, then close with
    the literal line **"If this were mine, I'd..."** followed by the single change
    that would matter most. Commit to one thing. A ranked list of five is a way of
    avoiding the decision, and the decision is what they came for.
@@ -125,15 +124,15 @@ finding, and more useful than inventing one.
 
 ### Adapting the format
 
-The nine sections assume a full draft. Flex them honestly rather than padding:
+The eight sections assume a full draft. Flex them honestly rather than padding:
 
 - **A rough thought or one-liner** — sections 3 and 4 have nothing to work on.
   Say so, and make section 5 a first draft built from their thought instead of a
   polish. Spend the effort on 1, 2, and 6.
 - **They asked only for hooks / a caption / a headline** — give them that first,
   well. Then offer the rest briefly: "if you want, I can run the full pass." Do
-  not bury a one-line request under nine headings.
-- **A long piece (2000+ words)** — keep sections 1-4 and 9 at full strength; make
+  not bury a one-line request under eight headings.
+- **A long piece (2000+ words)** — keep sections 1-4 and 8 at full strength; make
   section 5 targeted edits (opening, the buried lede, the ending, the two
   paragraphs that sag) rather than a full rewrite, and say why.
 
@@ -215,6 +214,6 @@ the actual craft, not just rules.
 - `references/voice.md` — the anti-generic engine, AI tells, calibration examples
 - `references/creative-language.md` — devices for hooks, phrases, transitions,
   headlines, endings, provocations
-- `references/linkedin.md` — angle-finding, structure, conversation starters
-- `references/instagram.md` — carousel architecture, slide density, captions
-- `references/worked-example.md` — one full nine-section pass on a real draft
+- `references/social.md` — one post for both platforms: angle-finding,
+  structure, the visual, conversation starters
+- `references/worked-example.md` — one full eight-section pass on a real draft

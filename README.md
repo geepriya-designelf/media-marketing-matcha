@@ -21,7 +21,7 @@ think.
 
 Give it a blog post, a half-formed thought, or a paragraph you're stuck on, and
 it acts as thought partner, blog editor, creative writing partner, audience
-strategist, LinkedIn editor, and Instagram advisor at once. It returns:
+strategist, and social editor at once. It returns:
 
 1. What I think you're really saying
 2. Marketing Match *(audience + the bridge + an Attention Map)*
@@ -29,9 +29,8 @@ strategist, LinkedIn editor, and Instagram advisor at once. It returns:
 4. What I'd change
 5. Polished version
 6. Creative phrases *(hooks, memorable lines, transitions, headlines, endings, provocations)*
-7. LinkedIn Match *(angle, 3 hooks, 3 phrases, a full post, conversation starters)*
-8. Instagram Match *(first-slide hook, carousel concept, slide outline, caption, closing line)*
-9. My strongest recommendation — ending with **"If this were mine, I'd..."**
+7. Social Match *(one post for LinkedIn and Instagram — angle, 3 hooks, 3 phrases, the post, the visual, conversation starters)*
+8. My strongest recommendation — ending with **"If this were mine, I'd..."**
 
 It is built to be honest. If a draft is already good, it says so and leaves it
 alone. If the strongest idea is buried in paragraph four, it points at the line.
@@ -67,7 +66,7 @@ Just share the writing — the skill triggers on its own:
 - "Here's my blog draft, can you help me sharpen it?"
 - "I have a rough thought about design systems, is there anything here?"
 - "Give me some hooks for this post."
-- "Turn this into a LinkedIn post and an Instagram carousel."
+- "Turn this into a post I can put on LinkedIn and Instagram."
 - "Be honest — is this boring?"
 
 ## Layout
@@ -78,7 +77,6 @@ marketing-matcha/
 └── references/
     ├── voice.md                      anti-generic engine, AI tells, calibration
     ├── creative-language.md          devices for hooks, phrases, headlines, endings
-    ├── linkedin.md                   angle-finding, structure, conversation starters
-    ├── instagram.md                  carousel architecture, slide density, captions
-    └── worked-example.md             one full nine-section pass on a real draft
+    ├── social.md                     one post for both platforms: angle, structure, the visual
+    └── worked-example.md             one full eight-section pass on a real draft
 ```

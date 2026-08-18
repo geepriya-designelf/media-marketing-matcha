@@ -185,12 +185,14 @@ narrowed claim instead of a shrug. Your sentences are otherwise intact.
 Both of these are defensible positions you'd survive an argument about. That's
 the bar — not whether they get a reaction.
 
-## 7. LinkedIn Match
+## 7. Social Match
 
-**The angle:** the misdiagnosis, not the fix. Aimed squarely at people who own
-an internal tool with disappointing usage. Leading with "we renamed things and
+Same post, both places — so this has to work as pasteable text and as an image.
+
+**The angle:** the misdiagnosis, not the fix. Aimed squarely at people who own an
+internal tool with disappointing usage. Leading with "we renamed things and
 adoption doubled" makes it a tip; leading with "I was wrong about why nobody was
-using it" makes it a story someone recognizes themselves in. Rejected: the
+using it" makes it a story someone recognises themselves in. Rejected: the
 "boring reasons" thesis (too abstract to open with) and the 40→80 number (great
 proof, weak hook — a number without a story reads as a brag).
 
@@ -207,10 +209,10 @@ proof, weak hook — a number without a story reads as a brag).
 - "We didn't add a single feature."
 - "Nobody wants to talk about search."
 
-**Suggested post**
+**The post**
 
-> I watched an engineer type "dropdown" into our component search and get
-> nothing back.
+> I watched an engineer type "dropdown" into our component search and get nothing
+> back.
 >
 > We'd called it "Select Menu."
 >
@@ -228,8 +230,15 @@ proof, weak hook — a number without a story reads as a brag).
 > disguise. Everyone wants to talk about tokens and governance. Nobody wants to
 > talk about search.
 >
-> I don't know how far it generalizes — this is one team, one search bar. But
-> it's the cheapest thing I'd check first.
+> I don't know how far it generalises — one team, one search bar. But it's the
+> cheapest thing I'd check first.
+
+**The visual:** the artifact route, and it's an easy one here — a search field
+with `dropdown` typed in it and *0 results* underneath. One frame, no words
+needed beyond what's in the UI, and it reads identically as an Instagram image
+and as a LinkedIn attachment. Reach for this before considering a carousel; the
+post is a single turn, not a sequence, so slides would just be the same story
+cut into pieces.
 
 **Conversation starters**
 - "Curious what your version of 'Select Menu' was. I suspect everyone has one."
@@ -238,41 +247,7 @@ proof, weak hook — a number without a story reads as a brag).
 - "I still don't know whether to fix this at the naming layer or the search
   layer. Aliases felt like a cop-out. Maybe it isn't."
 
-## 8. Instagram Match
-
-**First-slide hook:** `"dropdown" → 0 results`
-Rendered as an actual search bar. It does the work before a word is read.
-
-**Carousel concept:** the unfolding — each slide adds one piece of the
-misdiagnosis, so the reader swipes to find out what was actually wrong. Seven
-slides.
-
-**Slide-by-slide**
-1. A search bar. Typed: "dropdown." Below it: *0 results.*
-2. "We had a dropdown. We'd called it Select Menu."
-3. "For a year I thought engineers were ignoring our design system."
-4. "So: workshops. Docs. A beautiful Figma library." *(small type, listed —
-   visually cluttered on purpose)*
-5. "Adoption: 40%" *(single line, lots of white space — the reset beat)*
-6. "We renamed 30 components to match what people actually typed."
-7. "80%. We didn't add a single feature."
-
-**Caption**
-
-> The part I left out of the slides: I found this by sitting next to one person
-> for an hour. Not a survey, not analytics — one hour, one engineer, watching
-> him work.
->
-> I'd been treating adoption like a persuasion problem. It was a vocabulary
-> problem. We were naming components the way designers talk about them and
-> engineers were searching the way users talk about them.
->
-> Still not sure how far this generalizes. But if something you built isn't
-> getting used, I'd check what people are typing before I'd build anything else.
-
-**Closing line:** "The system was fine. The index was broken."
-
-## 9. My strongest recommendation
+## 8. My strongest recommendation
 
 Rebuild the piece around the misdiagnosis rather than the fix. Right now it's
 structured as a case study with a lesson at the end; it's stronger as a story
