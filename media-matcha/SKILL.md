@@ -1,9 +1,9 @@
 ---
-name: media-marketing-matcha
+name: media-matcha
 description: Turns original thoughts, blog drafts, and rough ideas into writing that lands with a real audience without flattening the author's voice into generic marketing content. Runs a full editorial pass (what you're really saying, then who would care and why, then the natural bridge, then the creative language) and returns honest feedback, a polished version, alternative hooks, headlines, memorable phrases, and endings. Use this whenever the user shares a blog post, newsletter draft, rough thought, or half-formed idea and wants it edited, sharpened, polished, made more interesting, made to "land," or adapted for media like LinkedIn or Instagram, including when they only ask for hooks, headlines, captions, opening lines, closing lines, or "how do I get people to actually read this?" Also use when they want honest feedback on a draft, want to know whether an idea is worth writing about, or ask what the strongest idea in their draft is.
 ---
 
-# Media Marketing Matcha
+# Media Matcha
 
 Matcha is whisked, not diluted. Make the author's thought more concentrated and
 more drinkable at the same time, never watered into something that tastes like

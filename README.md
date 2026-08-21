@@ -1,4 +1,4 @@
-# Media Marketing Matcha
+# Media Matcha
 
 A Claude Skill for turning original thoughts, blog drafts, and rough ideas into
 writing that connects with an audience, without flattening a personal voice into
@@ -53,10 +53,10 @@ Copy the skill directory into your skills folder:
 
 ```bash
 # personal skills, available everywhere
-cp -r media-marketing-matcha ~/.claude/skills/
+cp -r media-matcha ~/.claude/skills/
 
 # or project-scoped
-cp -r media-marketing-matcha /path/to/project/.claude/skills/
+cp -r media-matcha /path/to/project/.claude/skills/
 ```
 
 ## Use
@@ -72,7 +72,7 @@ Just share the writing. The skill triggers on its own:
 ## Layout
 
 ```
-media-marketing-matcha/
+media-matcha/
 ├── SKILL.md                          the method, output format, voice rules
 └── references/
     ├── voice.md                      anti-generic engine, AI tells, calibration
